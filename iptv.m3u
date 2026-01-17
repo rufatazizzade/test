@@ -1,0 +1,1148 @@
+#EXTM3U
+#EXTINF:0,.red (EDTV 576p)
+#EXTVLCOPT:network-caching=1000
+http://178.124.152.238:8088/sony
+#EXTINF:0,Cinema (EDTV 576p)
+#EXTVLCOPT:network-caching=1000
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:0,Dizi (EDTV 576p)
+#EXTVLCOPT:network-caching=1000
+http://194.158.222.36:6086
+#EXTINF:0,Kino 24 (EDTV 576p)
+#EXTVLCOPT:network-caching=1000
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:0,PRO100 (EDTV 576p)
+#EXTVLCOPT:network-caching=1000
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe01.cliptv.az:80/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe01.cliptv.az:80/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
+#EXTINF:0,VIP Serial HD
+#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:0,AzTV
+#EXTVLCOPT:network-caching=1000
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:72,ARB Canli AZ
+#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az/dash/ARB_SDwdv010056_re.ism/playlist.mpd
+#EXTINF:0,CBC Sport
+#EXTVLCOPT:network-caching=1000
+http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
+#EXTINF:0,APA TV
+#EXTVLCOPT:network-caching=1000
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:0,AZSTAR TV
+#EXTVLCOPT:network-caching=1000
+http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
+#EXTINF:0,Naxç#EXTVLCOPT:network-caching=1000
+http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
+#EXTINF:0,ARB 24
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:0,ARB Gunes
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:8,Azad TV
+#EXTVLCOPT:network-caching=1000
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+#EXTINF:0,Baku TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:0,Space TV
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:0,Xezer TV
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:0,Medeniyyet TV (406p)
+#EXTVLCOPT:network-caching=1000
+https://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:0,Alvin Channel TV (360p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:0,NOW TV
+#EXTVLCOPT:network-caching=1000
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:0,Show Max
+#EXTVLCOPT:network-caching=1000
+https://canlitvulusal.xyz/live/showmax/index.m3u8
+#EXTINF:0,Show Turk
+#EXTVLCOPT:network-caching=1000
+https://canlitvulusal.xyz/live/showturk/index.m3u8
+#EXTINF:0,Show TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:0,KANAL D
+#EXTVLCOPT:network-caching=1000
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:0,KANAL D (rez)
+#EXTVLCOPT:network-caching=1000
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:0,ATV HD TR
+#EXTVLCOPT:network-caching=1000
+http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
+#EXTINF:0,Show TV HD
+#EXTVLCOPT:network-caching=1000
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:0,Star TV
+#EXTVLCOPT:network-caching=1000
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:0,DMAX HD TR
+#EXTVLCOPT:network-caching=1000
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:0,TV8 HD TR (rez2)
+#EXTVLCOPT:network-caching=1000
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+#EXTINF:0,ATV Avrupa TR
+#EXTVLCOPT:network-caching=1000
+http://109.205.166.68:80/server126/hls/atv_avrp.m3u8?st=zlMYxmFR95XcleNSH9WiWw&e=1676581240
+#EXTINF:0,Euro D TR
+#EXTVLCOPT:network-caching=1000
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:0,Haber Turk FHD TR
+#EXTVLCOPT:network-caching=1000
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:0,Akit TV HD TR
+#EXTVLCOPT:network-caching=1000
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:0,Dost TV TR
+#EXTVLCOPT:network-caching=1000
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:0,FORTUNA TÜRK TV
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0,NTV
+#EXTVLCOPT:network-caching=1000
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:0,Teve 2 HD
+#EXTVLCOPT:network-caching=1000
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:0,TLC TR
+#EXTVLCOPT:network-caching=1000
+https://dogus-live.daioncdn.net/tlc/tlc_360p.m3u8
+#EXTINF:0,TV 4 TR
+#EXTVLCOPT:network-caching=1000
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:0,24 TV HD
+#EXTVLCOPT:network-caching=1000
+https://turkmedya-live.ercdn.net/tv24/tv24_360p.m3u8
+#EXTINF:0,360 HD
+#EXTVLCOPT:network-caching=1000
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:0,24KZ
+#EXTVLCOPT:network-caching=1000
+https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+#EXTINF:0,31 Kanal
+#EXTVLCOPT:network-caching=1000
+https://hls.live.31kz.adapto.kz/forward_live_31kz/index.m3u8
+#EXTINF:0,Abai TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:0,Alau TV (576p)
+#EXTVLCOPT:network-caching=1000
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:0,Aqtóbe (576p)
+#EXTVLCOPT:network-caching=1000
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:0,Atyraý (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:0,Balapan TV
+#EXTVLCOPT:network-caching=1000
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:0,Carousel International
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:0,Ertis (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:0,Jambyl (360p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:0,Kókshe (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/eOz4xJ8.png" - Qostanai (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:0,Qyzyljar (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:0,Qyzylorda (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:0,Rakuten VIKI (720p)
+#EXTVLCOPT:network-caching=1000
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+#EXTINF:0,Red Carpet TV International (1080p)
+#EXTVLCOPT:network-caching=1000
+https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
+#EXTINF:0,REN TV International
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:0,Revry (720p)
+#EXTVLCOPT:network-caching=1000
+https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
+#EXTINF:0,RTL HD
+#EXTVLCOPT:network-caching=1000
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:0,Saryarqa (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:0,Seme#EXTVLCOPT:network-caching=1000
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe01.cliptv.az:80/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe01.cliptv.az:80/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
+#EXTINF:0,VIP Serial HD
+#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://185.32.44.154/domashniy/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az:80/dash/STS_SDshl247h.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+#EXTINF:0,.sci-fi
+#EXTVLCOPT:network-caching=1000
+http://mfe01.cliptv.az:80/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
+#EXTINF:0,Amedia 1 HD
+#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd
+#EXTINF:0,Amedia 2 HD
+#EXTVLCOPT:network-caching=1000
+http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:0,M#EXTVLCOPT:network-caching=1000
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:0,M#EXTVLCOPT:network-caching=1000
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0,M#EXTVLCOPT:network-caching=1000
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0,Univer TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:0,Vetta 24 RU
+#EXTVLCOPT:network-caching=1000
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:0,360 #EXTVLCOPT:network-caching=1000
+https://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3u8
+#EXTINF:0,FREEDOM
+#EXTVLCOPT:network-caching=1000
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe01.cliptv.az/dash/Evronovosti_SDpoz269.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://188.113.190.15/71/tracks-v1a1/index.m3u8
+#EXTINF:0,mbc HD
+#EXTVLCOPT:network-caching=1000
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_6.m3u8
+#EXTINF:0,Mbc Drama AE
+#EXTVLCOPT:network-caching=1000
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
+#EXTINF:0,Mbc Action AE
+#EXTVLCOPT:network-caching=1000
+http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
+#EXTINF:0,February TV
+#EXTVLCOPT:network-caching=1000
+https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist_b200000.m3u8?md5=YgfdQ6W-cpgqdUOlg7s7gg&expires=1707584076
+#EXTINF:0,CBC Sport
+#EXTVLCOPT:network-caching=1000
+http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://185.57.68.33/110/mpegts
+#EXTINF:0,Galatasaray TV TR
+#EXTVLCOPT:network-caching=1000
+https://owifavo5.rocketcdn.com/gstv/gstv/chunklist.m3u8
+#EXTINF:0,Viasat Sport
+#EXTVLCOPT:network-caching=1000
+http://185.32.44.154/viasatsport/index.m3u8
+#EXTINF:0,Setanta Sports 1
+#EXTVLCOPT:network-caching=1000
+http://185.32.44.154/test/index.m3u8
+#EXTINF:0,TOP Barca (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:0,Eurosport 1
+#EXTVLCOPT:network-caching=1000
+http://185.32.44.154/eurosport/index.m3u8
+#EXTINF:0,Eurosport 2
+#EXTVLCOPT:network-caching=1000
+http://185.32.44.154/eurosport2/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://185.32.44.154/bokstv/index.m3u8
+#EXTINF:0,Viasat Sport
+#EXTVLCOPT:network-caching=1000
+http://185.32.44.154/viasatsport/index.m3u8
+#EXTINF:0,Setanta Sports 1
+#EXTVLCOPT:network-caching=1000
+http://185.32.44.154/test/index.m3u8
+#EXTINF:0,BS 3
+#EXTVLCOPT:network-caching=1000
+http://185.32.44.154/beinsport/index.m3u8
+#EXTINF:0,4Sport
+#EXTVLCOPT:network-caching=1000
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:0,30A Golf Kingdom
+#EXTVLCOPT:network-caching=1000
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:0,A Spor
+#EXTVLCOPT:network-caching=1000
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:0,Abu Dhabi Sports 1 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:0,Abu Dhabi Sports 2 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:0,ACCDN (1080p)
+#EXTVLCOPT:network-caching=1000
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:0,ACCN (720p)
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:0,Africa 24 Sport (1080p)
+#EXTVLCOPT:network-caching=1000
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:0,AfroSport Nigeria
+#EXTVLCOPT:network-caching=1000
+https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
+#EXTINF:0,Alkass Five (1080p)
+#EXTVLCOPT:network-caching=1000
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
+#EXTINF:0,Alkass Four (1080p)
+#EXTVLCOPT:network-caching=1000
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4azq/master.m3u8
+#EXTINF:0,Alkass One (1080p)
+#EXTVLCOPT:network-caching=1000
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8
+#EXTINF:0,Alkass SHOOF (1080p)
+#EXTVLCOPT:network-caching=1000
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
+#EXTINF:0,Alkass Six (1080p)
+#EXTVLCOPT:network-caching=1000
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzay/master.m3u8
+#EXTINF:0,Alkass Three (1080p)
+#EXTVLCOPT:network-caching=1000
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
+#EXTINF:0,Alkass Two (1080p)
+#EXTVLCOPT:network-caching=1000
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
+#EXTINF:0,AntenaSport (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
+#EXTVLCOPT:network-caching=1000
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8
+#EXTINF:0,Bahrain Sports 1 (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:0,Bahrain Sports 2 (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:0,BEK TV Sports West (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:0,Billiard TV
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
+#EXTINF:0,CampusLore (720p)
+#EXTVLCOPT:network-caching=1000
+https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+#EXTINF:0,Canal do Inter (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:0,Canal+ Sport 2 (1080i)
+#EXTVLCOPT:network-caching=1000
+http://78.130.250.2:8023/play/a02w/index.m3u8
+#EXTINF:0,CBC Sport [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:0,CBS Sports Golazo Network
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:0,CBS Sports HQ
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+#EXTINF:0,CBS Sports Network USA
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:0,ColimdoT TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:0,DAZN Combat (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:0,DD Sports (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:0,Dubai Racing (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:0,Dubai Racing 2 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:0,Dubai Racing 3 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#EXTINF:0,Dubai Sports 1 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:0,Dubai Sports 2 (720p)
+#EXTVLCOPT:network-caching=1000
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:0,Dubai Sports 3 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:0,Eleven Sports 1 (2160p)
+#EXTVLCOPT:network-caching=1000
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
+#EXTINF:0,Equidia (1080p)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:0,ERT Sports 1 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
+#EXTINF:0,ERT Sports 2 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:0,ESPN U (720p)
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:0,ESPNews (720p)
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:0,FanDuel Sports Network
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:0,FanDuel TV
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/TVG/index.m3u8
+#EXTINF:0,FB TV
+#EXTVLCOPT:network-caching=1000
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:0,FIFA+ (720p)
+#EXTVLCOPT:network-caching=1000
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:0,FITE 24/7 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:0,Football
+#EXTVLCOPT:network-caching=1000
+http://31.148.48.15/Futbol_HD/index.m3u8
+#EXTINF:0,Fox Sports 2 (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:0,Fox Sports en Espanol (720p)
+#EXTVLCOPT:network-caching=1000
+https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
+#EXTINF:0,Fubo Sports Network (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+#EXTINF:0,FUEL TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:0,Futbol (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:0,Game+ (720p)
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:0,Glory Kickboxing (720p)
+#EXTVLCOPT:network-caching=1000
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:0,Golf Channel
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:0,Horse TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:0,HTSpor TV (1080p)
+#EXTVLCOPT:network-caching=1000
+http://185.234.111.229:8000/play/a016
+#EXTINF:0,Insight TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,ITV Deportes
+#EXTVLCOPT:network-caching=1000
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:0,K19
+#EXTVLCOPT:network-caching=1000
+https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
+#EXTINF:0,KCMN-LD6 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:0,KHL Prime
+#EXTVLCOPT:network-caching=1000
+http://194.143.148.28:8080/KHL_HD/index.m3u8
+#EXTINF:0,Kozoom TV
+#EXTVLCOPT:network-caching=1000
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+#EXTINF:0,KTV Sport (1080p)
+#EXTVLCOPT:network-caching=1000
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:0,KTV Sport Plus (1080p)
+#EXTVLCOPT:network-caching=1000
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:0,L'Equipe
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+#EXTINF:0,Lacrosse TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:0,M-Net Sport (720p)
+#EXTVLCOPT:network-caching=1000
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:0,MadeinBO TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:0,Match! Arena
+#EXTVLCOPT:network-caching=1000
+http://194.143.148.28:8080/MatchArena/index.m3u8
+#EXTINF:0,MAVTV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:0,MLB
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
+#EXTINF:0,MLB Network
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:0,MMA-TV.com
+#EXTVLCOPT:network-caching=1000
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:0,MNB Sport (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn3.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+#EXTINF:0,Monterrico TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+#EXTINF:0,More Than Sports TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:0,MSG
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:0,Nautical Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+#EXTINF:0,NBA TV Canada (1080p)
+#EXTVLCOPT:network-caching=1000
+http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
+#EXTINF:0,NFL Channel
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
+#EXTINF:0,NFL Network
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:0,NFL RedZone
+#EXTVLCOPT:network-caching=1000
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:0,NHL
+#EXTVLCOPT:network-caching=1000
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:0,Nitro Circus (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Oman Sports TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:0,ON Football
+#EXTVLCOPT:network-caching=1000
+http://dvrfl05.bozztv.com/vch_vchannel11/index.m3u8
+#EXTINF:0,Ovacion TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:0,PBR RidePass
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f7275d4e-aa8e-4e8d-9d5e-6a5665bf8190
+#EXTINF:0,Persiana Sport
+#EXTVLCOPT:network-caching=1000
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:0,PGA Tour
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
+#EXTINF:0,Pluto TV Deportes (720p)
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0,Pluto TV Lucha Libre AAA (720p)
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
+#EXTINF:0,Pluto TV Sport Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:0,Poker Night in America (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d2njbreu8qyfxo.cloudfront.net/scheduler/scheduleMaster/216.m3u8
+#EXTINF:0,PokerGo
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
+#EXTINF:0,QazSport (480p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:0,Racing America (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/racing-america/playlist.m3u8
+#EXTINF:0,Racing.com (720p)
+#EXTVLCOPT:network-caching=1000
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:0,Radio Turrialba TV Sports (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
+#EXTINF:0,Rai Sport HD
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:0,Real Madrid TV (404p)
+#EXTVLCOPT:network-caching=1000
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:0,Red Bull TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:0,RTA Sport (1080p)
+#EXTVLCOPT:network-caching=1000
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:0,RTI La 3 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://69.64.57.208/la3/index.m3u8
+#EXTINF:0,San Marino RTV Sport (720p)
+#EXTVLCOPT:network-caching=1000
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:0,Sky Sport 1 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118585.ts
+#EXTINF:0,Sky Sport 2 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
+#EXTINF:0,Sky Sport 3 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://hls.sheepland.xyz/play/0/15?proxy=0
+#EXTINF:0,Sky Sport 4 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://hls.sheepland.xyz/play/0/36?proxy=0
+#EXTINF:0,Sky Sport 5 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118589.ts
+#EXTINF:0,Sky Sport 6 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://hls.sheepland.xyz/play/0/70?proxy=0
+#EXTINF:0,Sky Sport 7 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://hls.sheepland.xyz/play/0/66?proxy=0
+#EXTINF:0,SOS Kanal Plus (720p)
+#EXTVLCOPT:network-caching=1000
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:0,Sport En France (1080p)
+#EXTVLCOPT:network-caching=1000
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:0,Sportitalia SoloCalcio
+#EXTVLCOPT:network-caching=1000
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+#EXTINF:0,Sports TV (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:0,SportsGrid (1080p)
+#EXTVLCOPT:network-caching=1000
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:0,Sportsman Channel
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:0,SportsNet New York (540p)
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/SNY/index.m3u8
+#EXTINF:0,SSC Action Waleed (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:0,Star Sports 1 HD [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:0,Star Sports 1 Tamil HD
+#EXTVLCOPT:network-caching=1000
+https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
+#EXTINF:0,Strongman (720p)
+#EXTVLCOPT:network-caching=1000
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Swerve Sports (1080p)
+#EXTVLCOPT:network-caching=1000
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:0,T Sports 7 (720p)
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+#EXTINF:0,talkSPORT (1080p)
+#EXTVLCOPT:network-caching=1000
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:0,TDM Sports Ch. 93 (720p)
+#EXTVLCOPT:network-caching=1000
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:0,Teletrak (720p)
+#EXTVLCOPT:network-caching=1000
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:0,Telewebion Sport
+#EXTVLCOPT:network-caching=1000
+https://ncdn.telewebion.com/twsport/live/playlist.m3u8
+#EXTINF:0,Telewebion Sport 2
+#EXTVLCOPT:network-caching=1000
+https://ncdn.telewebion.com/twsport2/live/playlist.m3u8
+#EXTINF:0,Telewebion Sport 3
+#EXTVLCOPT:network-caching=1000
+https://ncdn.telewebion.com/twsport3/live/playlist.m3u8
+#EXTINF:0,Tennis Channel
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:0,TR Sport (480p)
+#EXTVLCOPT:network-caching=1000
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:0,Trace Sport Stars (Australia) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,TRT Spor (1080p)
+#EXTVLCOPT:network-caching=1000
+http://185.234.111.229:8000/play/a00e
+#EXTINF:0,TSN2
+#EXTVLCOPT:network-caching=1000
+https://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:0,TSN3
+#EXTVLCOPT:network-caching=1000
+https://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:0,TSN5
+#EXTVLCOPT:network-caching=1000
+https://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:0,TSN The Ocho
+#EXTVLCOPT:network-caching=1000
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:0,Turf Movil (720p)
+#EXTVLCOPT:network-caching=1000
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
+#EXTINF:0,Türkmenistan Sport (406p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:0,TVRI Sport (720p)
+#EXTVLCOPT:network-caching=1000
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:0,Unbeaten (1080p)
+#EXTVLCOPT:network-caching=1000
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:0,Varzesh TV (480p)
+#EXTVLCOPT:network-caching=1000
+https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
+#EXTINF:0,W14DK-D 14.5 All Sports Television Network
+#EXTVLCOPT:network-caching=1000
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:0,World of Freesports (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0,World Poker Tour
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21a974-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97bdb4b6-f530-4173-966d-19421ac303a0
+#EXTINF:0,World Poker Tour
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4b755e8e770007387b79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e97-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=14cdb377-9292-4d37-85af-4d89aff56e90
+#EXTINF:0,World Poker Tour
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00010-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=74cccc9f-4a89-4a77-9d46-ad68b9e23890
+#EXTINF:0,World Poker Tour (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
+#EXTINF:0,World Poker Tour Italy (720p)
+#EXTVLCOPT:network-caching=1000
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://de.seetv.cc/play/134/996DA9781004412/video.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://185.32.44.154/nauka/index.m3u8
+#EXTINF:0,Multilandia
+#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/multilandiya/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az:80/dash/Detskiy_Mir_SDqwvb78iu.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://mfe02.cliptv.az/dash/Mult_SDkye43.ism/playlist.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://live.m2.tv/hls3/720/stream.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:0,Afrobeats TV
+#EXTVLCOPT:network-caching=1000
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:0,Best of Dance TV
+#EXTVLCOPT:network-caching=1000
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:0,Company TV
+#EXTVLCOPT:network-caching=1000
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
+#EXTINF:0,Deep House District
+#EXTVLCOPT:network-caching=1000
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:0,DREAM TURK HD
+#EXTVLCOPT:network-caching=1000
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:0,Kiss Kiss Italia HD
+#EXTVLCOPT:network-caching=1000
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:0,Kiss Kiss Napoli HD
+#EXTVLCOPT:network-caching=1000
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:0,KralPOP
+#EXTVLCOPT:network-caching=1000
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:0,Music Reload TV HD
+#EXTVLCOPT:network-caching=1000
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+#EXTINF:0,Muzzik Cafe&Club
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:0,Muzzik HipHop
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:0,Muzzik OKK
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:0,Muzzik Rock&Roll
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:0,Muzzik TV
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:0,Muzzik Worldwide
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:0,NRG 91 Music HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:0,Ocko Expres
+#EXTVLCOPT:network-caching=1000
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:0,Ocko Gold
+#EXTVLCOPT:network-caching=1000
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:0,Ó#EXTVLCOPT:network-caching=1000
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:0,Ocko Star
+#EXTVLCOPT:network-caching=1000
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0,On Air TV
+#EXTVLCOPT:network-caching=1000
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
+#EXTINF:0,QMUSIC
+#EXTVLCOPT:network-caching=1000
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:0,Radio Ibiza TV
+#EXTVLCOPT:network-caching=1000
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
+#EXTINF:0,Radio Love FM
+#EXTVLCOPT:network-caching=1000
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
+#EXTINF:0,Reload Radio Music Power HD
+#EXTVLCOPT:network-caching=1000
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:0,RU TV HD
+#EXTVLCOPT:network-caching=1000
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:0,Tatl#EXTVLCOPT:network-caching=1000
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/6872/index.m3u8
+#EXTINF:0,V2Beat TV Live
+#EXTVLCOPT:network-caching=1000
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:0,VEVO '70s (USA)
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?sid=0895&deviceId=5f32f26bcd8aea00071240e5&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:0,VEVO R&B (USA)
+#EXTVLCOPT:network-caching=1000
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?sid=0890&deviceId=5da0d83f66c9700009b96d0e&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
+#EXTINF:0,Vibee TV
+#EXTVLCOPT:network-caching=1000
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:0,Vostok tv
+#EXTVLCOPT:network-caching=1000
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/1054/index.m3u8
+#EXTINF:0,88 STEREO TV
+#EXTVLCOPT:network-caching=1000
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://188.113.190.15/328/tracks-v1a1/index.m3u8
+#EXTINF:0,CASPIAN RADIO BOSS
+#EXTVLCOPT:network-caching=1000
+https://myradio24.org/bosscomaz
+#EXTINF:0,ANS ÇM Radio
+#EXTVLCOPT:network-caching=1000
+https://live.ansradio.ws:8443/mp3_128
+#EXTINF:0,ASAN RAD#EXTVLCOPT:network-caching=1000
+http://94.20.74.206:4448/stream1
+#EXTINF:0,Avto FM
+#EXTVLCOPT:network-caching=1000
+http://5.191.241.101:8000/avtofm
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://stream.itv.az/rtmp:/radio/chunks.m3u8
+#EXTINF:0,TMB RAD#EXTVLCOPT:network-caching=1000
+http://s39.myradiostream.com:5458/listen.mp3?nocache=1673499165
+#EXTINF:0,#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+#EXTVLCOPT:network-caching=1000
+http://online-video.rbc.ru/chr/index.m3u8
+#EXTINF:0,.black
+#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/596/index.m3u8
+#EXTINF:0,.red
+#EXTVLCOPT:network-caching=1000
+http://178.124.152.238:8088/sony
+#EXTINF:0,.sci-fi
+#EXTVLCOPT:network-caching=1000
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
+#EXTINF:0,Amedia Hit
+#EXTVLCOPT:network-caching=1000
+http://85.117.61.97:8000/play/a015/index.m3u8
+#EXTINF:0,Amedia Premium HD
+#EXTVLCOPT:network-caching=1000
+http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:0,BollywooD HD
+#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/1520/index.m3u8
+#EXTINF:0,Cinema
+#EXTVLCOPT:network-caching=1000
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:0,Dizi
+#EXTVLCOPT:network-caching=1000
+http://194.158.222.36:6086
+#EXTINF:0,FilmBOX Arthouse
+#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/1967/index.m3u8
+#EXTINF:0,Kino 24
+#EXTVLCOPT:network-caching=1000
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:0,Novella TV HD
+#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/8327/index.m3u8
+#EXTINF:0,Plan B HD
+#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/7688/index.m3u8
+#EXTINF:0,Romance
+#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/8823/index.m3u8
+#EXTINF:0,Scream HD
+#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/8229/index.m3u8
+#EXTINF:0,Viju TV1000
+#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/TV_1000/tracks-v1a1/mono.m3u8
+#EXTINF:0,Viju TV1000 Action
+#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/TV_1000_Action/tracks-v1a1/mono.m3u8
+#EXTINF:0,Viju TV1000 romantica
+#EXTVLCOPT:network-caching=1000
+http://77.235.1.19:8000/play/a05p/index.m3u8
+#EXTINF:0,Viju+ comedy HD
+#EXTVLCOPT:network-caching=1000
+http://87.246.54.249:8085/Viju_Comedy/index.m3u8
+#EXTINF:0,Viju+ megahit HD
+#EXTVLCOPT:network-caching=1000
+http://87.246.54.249:8085/Viju_Megahit/index.m3u8
+#EXTINF:0,Viju+ premiere HD
+#EXTVLCOPT:network-caching=1000
+http://87.246.54.249:8085/Viju_Premiere/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://31.148.48.15:80/Illusion_plus/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/Komediya/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/NSTV/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://178.212.71.253:8000/play/90/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/8191/index.m3u8
+#EXTINF:0,Start Air HD
+#EXTVLCOPT:network-caching=1000
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:0,Viju TV1000 #EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/3794/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://31.148.48.15:80/Mir_Seriala/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/mosfilm/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://cdn2.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://cdn2.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/russkiy_bestseller/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://77.235.1.19:8000/play/a08f/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://45.11.139.43:8555/telekafe/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:0,Eurosport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://176.96.241.40/Eurosport1/index.m3u8
+#EXTINF:0,Eurosport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/2587/index.m3u8
+#EXTINF:0,Viju+ sport
+#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/Viasat_Sport_East_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://77.235.1.19:8000/play/a035/index.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://176.96.241.40/AnimalPlanet/index.m3u8
+#EXTINF:0,Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/3465/index.m3u8
+#EXTINF:0,Galaxy
+#EXTVLCOPT:network-caching=1000
+http://85.117.61.97:8000/play/a01c/index.m3u8
+#EXTINF:0,ID
+#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/ID_Xtra/tracks-v1a1/mono.m3u8
+#EXTINF:0,RTG
+#EXTVLCOPT:network-caching=1000
+http://178.124.152.238:8088/rtg
+#EXTINF:0,Top Secret
+#EXTVLCOPT:network-caching=1000
+http://178.124.152.238:8088/sovsec
+#EXTINF:0,TERRA HD
+#EXTVLCOPT:network-caching=1000
+http://45.11.139.43:8555/terra/index.m3u8
+#EXTINF:0,UNIVER HD
+#EXTVLCOPT:network-caching=1000
+http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+#EXTINF:0,ZOO#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/Zoopark/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/5567/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/1491/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/Istoriya/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://178.124.152.238:8088/nauka
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/Poehali/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:0,Luxury HD
+#EXTVLCOPT:network-caching=1000
+http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,Viju EXPLORE
+#EXTVLCOPT:network-caching=1000
+http://85.117.61.97:8000/play/a00z/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://178.124.152.238:8088/auto24
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://195.18.23.20:8000/play/1/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/4647/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://85.117.61.97:8000/play/a01f/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://178.217.72.66:8080/Doktor/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://86.57.209.210/Drive/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://185.57.68.33/40/mpegts
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://tvip.btk.teleos.ru:8081/chid514/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/8850/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://cdn2.ntv.ru/th_style/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/689/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://tvip.btk.teleos.ru:8081/chid142/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://158.160.149.81:8080/145/index.m3u8
